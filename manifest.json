@@ -1,0 +1,1018 @@
+{
+  "source_base_path": "/home/runner/work/csharp-features/csharp-features/docfx",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Modifiers.DefaultAccessModifierTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Modifiers.DefaultAccessModifierTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Modifiers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Modifiers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Operators.OperatorsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Operators.OperatorsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Operators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Operators.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Types.EnumTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Types.EnumTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Types.StringTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Types.StringTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V1X.Types.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V1X.Types.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.AnonymousMethods.AnonymousMethodsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.AnonymousMethods.AnonymousMethodsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.AnonymousMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.AnonymousMethods.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.CovarianceAndContravarianceInDelegatesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.CovarianceAndContravarianceInDelegatesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.ExternalAssemblyAliasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.ExternalAssemblyAliasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.FixedSizeBuffersTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.FixedSizeBuffersTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.FriendAssemblies.FriendAssembliesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.FriendAssemblies.FriendAssembliesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.FriendAssemblies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.FriendAssemblies.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Base-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Base-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Calcurator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Calcurator-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Calcurator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Calcurator.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Constraint-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Constraint-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.ConstraintsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.ConstraintsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.DefaultKeywordTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.DefaultKeywordTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Derived-1.Nested.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Derived-1.Nested.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Derived-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Derived-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.G-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.G-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.IListArrayTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.IListArrayTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.Non.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.Non.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.ProcessItems.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.ProcessItems.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.ReflectionTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.ReflectionTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Generics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Generics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.C.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.C.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.D.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.D.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.InlineWarningControl.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Iterators.IteratorsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Iterators.IteratorsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.Iterators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.Iterators.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.Math.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.Math.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.NullableTypes.NullableTypesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.NullableTypes.NullableTypesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.NullableTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.NullableTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.PartialClasses.PartialClassesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.PartialClasses.PartialClassesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.PartialClasses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.PartialClasses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.PropertyAccessorAccessibilityTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.PropertyAccessorAccessibilityTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.StaticClasses.StaticClassesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.StaticClasses.StaticClassesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V20.StaticClasses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V20.StaticClasses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.AnonymousTypes.AnonymousTypesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.AnonymousTypes.AnonymousTypesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.AnonymousTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.AnonymousTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.AutoImplementedPropertiesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.AutoImplementedPropertiesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.CollectionInitializers.CollectionInitializersTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.CollectionInitializers.CollectionInitializersTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.CollectionInitializers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.CollectionInitializers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ExtensionMethods.ExtensionMethodsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ExtensionMethods.ExtensionMethodsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ExtensionMethods.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ExtensionMethods.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.ImplicitlyTypedLocalVariablesAndArraysTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.ImplicitlyTypedLocalVariablesAndArraysTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.LambdaExpressions.LambdaExpressionsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.LambdaExpressions.LambdaExpressionsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.LambdaExpressions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.LambdaExpressions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.AggregationOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.AggregationOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.ConcatenationOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.ConcatenationOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.ConvertingDataTypesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.ConvertingDataTypesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.ElementOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.ElementOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.EqualityOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.EqualityOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.FilteringDataTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.FilteringDataTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.FromClauseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.FromClauseTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.GenerationOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.GenerationOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.GroupingDataTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.GroupingDataTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.JoinOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.JoinOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.LetClauseTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.LetClauseTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.LinqBasicTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.LinqBasicTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.LinqToXmlTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.LinqToXmlTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.PartitioningDataTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.PartitioningDataTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.ProjectionOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.ProjectionOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.QuantifierOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.QuantifierOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.SetOperationsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.SetOperationsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.SortingDataTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.SortingDataTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.Linq.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.Linq.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ObjectInitializers.ObjectInitializersTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ObjectInitializers.ObjectInitializersTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.ObjectInitializers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.ObjectInitializers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.PartialMethodDefinitionsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.PartialMethodDefinitionsTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.DynamicSupport.DynamicSupportTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.DynamicSupport.DynamicSupportTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.DynamicSupport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.DynamicSupport.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ContravarianceDelegate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ContravarianceDelegate-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ConvarianceDelegate-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ConvarianceDelegate-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VariantGenericInterfacesTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VariantGenericInterfacesTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.NamedAndOptionalArgumentsTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.NamedAndOptionalArgumentsTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CustomExtensions.MyExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CustomExtensions.MyExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/CustomExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/CustomExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/toc.json"
+        },
+        ".html": {
+          "relative_path": "docs/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Redirection",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

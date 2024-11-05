@@ -1,0 +1,482 @@
+{
+  "api/CSharpFeaturesTest.V1X.Modifiers.DefaultAccessModifierTests.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Modifiers.DefaultAccessModifierTests.html",
+    "title": "Class DefaultAccessModifierTests | nf.unitylibs.utils",
+    "keywords": "Class DefaultAccessModifierTests Namespace CSharpFeaturesTest.V1X.Modifiers Assembly CSharpFeaturesTest.dll public class DefaultAccessModifierTests Inheritance object DefaultAccessModifierTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DefaultModifierFieldTest() [Fact] public void DefaultModifierFieldTest() DefaultModifierInNamespaceTest() [Fact] public void DefaultModifierInNamespaceTest() DefaultModifierMethodTest() [Fact] public void DefaultModifierMethodTest() DefaultModifierNestedClassTest() [Fact] public void DefaultModifierNestedClassTest()"
+  },
+  "api/CSharpFeaturesTest.V1X.Modifiers.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Modifiers.html",
+    "title": "Namespace CSharpFeaturesTest.V1X.Modifiers | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V1X.Modifiers Classes DefaultAccessModifierTests"
+  },
+  "api/CSharpFeaturesTest.V1X.Operators.OperatorsTests.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Operators.OperatorsTests.html",
+    "title": "Class OperatorsTests | nf.unitylibs.utils",
+    "keywords": "Class OperatorsTests Namespace CSharpFeaturesTest.V1X.Operators Assembly CSharpFeaturesTest.dll public class OperatorsTests Inheritance object OperatorsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CheckedTest() [Fact] public void CheckedTest() NullCoalescingTest() [Fact] public void NullCoalescingTest() UncheckedTest() [Fact] public void UncheckedTest() WithoutCheckedTest() [Fact] public void WithoutCheckedTest()"
+  },
+  "api/CSharpFeaturesTest.V1X.Operators.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Operators.html",
+    "title": "Namespace CSharpFeaturesTest.V1X.Operators | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V1X.Operators Classes OperatorsTests"
+  },
+  "api/CSharpFeaturesTest.V1X.Types.EnumTests.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Types.EnumTests.html",
+    "title": "Class EnumTests | nf.unitylibs.utils",
+    "keywords": "Class EnumTests Namespace CSharpFeaturesTest.V1X.Types Assembly CSharpFeaturesTest.dll public class EnumTests Inheritance object EnumTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DefaultUnderlyingTypeTest() [Fact] public void DefaultUnderlyingTypeTest() DefinedUnderlyingTypeTest() [Fact] public void DefinedUnderlyingTypeTest() EnumWithFlagsTest() [Fact] public void EnumWithFlagsTest() GetNamesTest() [Fact] public void GetNamesTest() GetValuesTest() [Fact] public void GetValuesTest() IsDefinedTest() [Fact] public void IsDefinedTest() ParseExceptionTest() [Fact] public void ParseExceptionTest() ParseTest() [Fact] public void ParseTest() ToStringFormattingTest() [Fact] public void ToStringFormattingTest() TryParseTest() [Fact] public void TryParseTest() ZeroBasedIndexTest() [Fact] public void ZeroBasedIndexTest()"
+  },
+  "api/CSharpFeaturesTest.V1X.Types.StringTests.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Types.StringTests.html",
+    "title": "Class StringTests | nf.unitylibs.utils",
+    "keywords": "Class StringTests Namespace CSharpFeaturesTest.V1X.Types Assembly CSharpFeaturesTest.dll public class StringTests Inheritance object StringTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods VerbatimStringLiteralsTest() [Fact] public void VerbatimStringLiteralsTest()"
+  },
+  "api/CSharpFeaturesTest.V1X.Types.html": {
+    "href": "api/CSharpFeaturesTest.V1X.Types.html",
+    "title": "Namespace CSharpFeaturesTest.V1X.Types | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V1X.Types Classes EnumTests StringTests"
+  },
+  "api/CSharpFeaturesTest.V20.AnonymousMethods.AnonymousMethodsTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.AnonymousMethods.AnonymousMethodsTests.html",
+    "title": "Class AnonymousMethodsTests | nf.unitylibs.utils",
+    "keywords": "Class AnonymousMethodsTests Namespace CSharpFeaturesTest.V20.AnonymousMethods Assembly CSharpFeaturesTest.dll public class AnonymousMethodsTests Inheritance object AnonymousMethodsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AnonymousMethodsTest() [Fact] public void AnonymousMethodsTest() CapturedOrOuterVariablesTest() [Fact] public void CapturedOrOuterVariablesTest()"
+  },
+  "api/CSharpFeaturesTest.V20.AnonymousMethods.html": {
+    "href": "api/CSharpFeaturesTest.V20.AnonymousMethods.html",
+    "title": "Namespace CSharpFeaturesTest.V20.AnonymousMethods | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.AnonymousMethods Classes AnonymousMethodsTests"
+  },
+  "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.CovarianceAndContravarianceInDelegatesTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.CovarianceAndContravarianceInDelegatesTests.html",
+    "title": "Class CovarianceAndContravarianceInDelegatesTests | nf.unitylibs.utils",
+    "keywords": "Class CovarianceAndContravarianceInDelegatesTests Namespace CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates Assembly CSharpFeaturesTest.dll public class CovarianceAndContravarianceInDelegatesTests Inheritance object CovarianceAndContravarianceInDelegatesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ContravarianceTest() [Fact] public void ContravarianceTest() CovarianceTest() [Fact] public void CovarianceTest()"
+  },
+  "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.html": {
+    "href": "api/CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates.html",
+    "title": "Namespace CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.CovarianceAndContravarianceInDelegates Classes CovarianceAndContravarianceInDelegatesTests"
+  },
+  "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.ExternalAssemblyAliasTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.ExternalAssemblyAliasTests.html",
+    "title": "Class ExternalAssemblyAliasTests | nf.unitylibs.utils",
+    "keywords": "Class ExternalAssemblyAliasTests Namespace CSharpFeaturesTest.V20.ExternalAssemblyAlias Assembly CSharpFeaturesTest.dll public class ExternalAssemblyAliasTests Inheritance object ExternalAssemblyAliasTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ExternalAssemblyAliasTest() [Fact] public void ExternalAssemblyAliasTest()"
+  },
+  "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.html": {
+    "href": "api/CSharpFeaturesTest.V20.ExternalAssemblyAlias.html",
+    "title": "Namespace CSharpFeaturesTest.V20.ExternalAssemblyAlias | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.ExternalAssemblyAlias Classes ExternalAssemblyAliasTests"
+  },
+  "api/CSharpFeaturesTest.V20.FixedSizeBuffers.FixedSizeBuffersTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.FixedSizeBuffersTests.html",
+    "title": "Class FixedSizeBuffersTests | nf.unitylibs.utils",
+    "keywords": "Class FixedSizeBuffersTests Namespace CSharpFeaturesTest.V20.FixedSizeBuffers Assembly CSharpFeaturesTest.dll public class FixedSizeBuffersTests Inheritance object FixedSizeBuffersTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods FixedSizeBuffersTest() [Fact] public void FixedSizeBuffersTest()"
+  },
+  "api/CSharpFeaturesTest.V20.FixedSizeBuffers.html": {
+    "href": "api/CSharpFeaturesTest.V20.FixedSizeBuffers.html",
+    "title": "Namespace CSharpFeaturesTest.V20.FixedSizeBuffers | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.FixedSizeBuffers Classes FixedSizeBuffersTests"
+  },
+  "api/CSharpFeaturesTest.V20.FriendAssemblies.FriendAssembliesTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.FriendAssemblies.FriendAssembliesTests.html",
+    "title": "Class FriendAssembliesTests | nf.unitylibs.utils",
+    "keywords": "Class FriendAssembliesTests Namespace CSharpFeaturesTest.V20.FriendAssemblies Assembly CSharpFeaturesTest.dll public class FriendAssembliesTests Inheritance object FriendAssembliesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods FriendAssembliesTest() [Fact] public void FriendAssembliesTest()"
+  },
+  "api/CSharpFeaturesTest.V20.FriendAssemblies.html": {
+    "href": "api/CSharpFeaturesTest.V20.FriendAssemblies.html",
+    "title": "Namespace CSharpFeaturesTest.V20.FriendAssemblies | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.FriendAssemblies Classes FriendAssembliesTests"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Base-2.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Base-2.html",
+    "title": "Class Base<T, U> | nf.unitylibs.utils",
+    "keywords": "Class Base<T, U> Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Base<T, U> Type Parameters T U Inheritance object Base<T, U> Derived Derived<V> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Calcurator-1.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Calcurator-1.html",
+    "title": "Class Calcurator<T> | nf.unitylibs.utils",
+    "keywords": "Class Calcurator<T> Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public abstract class Calcurator<T> Type Parameters T Inheritance object Calcurator<T> Derived Calcurator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add(T, T) public abstract T Add(T a, T b) Parameters a T b T Returns T"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Calcurator.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Calcurator.html",
+    "title": "Class Calcurator | nf.unitylibs.utils",
+    "keywords": "Class Calcurator Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Calcurator : Calcurator<int> Inheritance object Calcurator<int> Calcurator Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add(int, int) public override int Add(int a, int b) Parameters a int b int Returns int"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Constraint-3.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Constraint-3.html",
+    "title": "Class Constraint<T, U, V> | nf.unitylibs.utils",
+    "keywords": "Class Constraint<T, U, V> Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Constraint<T, U, V> where T : struct where U : G<T> where V : class, new() Type Parameters T U V Inheritance object Constraint<T, U, V> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.ConstraintsTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.ConstraintsTests.html",
+    "title": "Class ConstraintsTests | nf.unitylibs.utils",
+    "keywords": "Class ConstraintsTests Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class ConstraintsTests Inheritance object ConstraintsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods BaseClassTest() [Fact] public void BaseClassTest() ClassTest() [Fact] public void ClassTest() NewTest() [Fact] public void NewTest() SpecifiedInterfaceTest() [Fact] public void SpecifiedInterfaceTest() StructTest() [Fact] public void StructTest() TypeParameterAsConstraintTest() [Fact] public void TypeParameterAsConstraintTest()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.DefaultKeywordTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.DefaultKeywordTests.html",
+    "title": "Class DefaultKeywordTests | nf.unitylibs.utils",
+    "keywords": "Class DefaultKeywordTests Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class DefaultKeywordTests Inheritance object DefaultKeywordTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DefaultKeywordTest() [Fact] public void DefaultKeywordTest()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Derived-1.Nested.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Derived-1.Nested.html",
+    "title": "Class Derived<V>.Nested | nf.unitylibs.utils",
+    "keywords": "Class Derived<V>.Nested Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Derived<V>.Nested Inheritance object Derived<V>.Nested Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Derived-1.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Derived-1.html",
+    "title": "Class Derived<V> | nf.unitylibs.utils",
+    "keywords": "Class Derived<V> Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Derived<V> : Base<string, V> Type Parameters V Inheritance object Base<string, V> Derived<V> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Fields F public G<Derived<V>> F Field Value G<Derived<V>>"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.G-1.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.G-1.html",
+    "title": "Class G<T> | nf.unitylibs.utils",
+    "keywords": "Class G<T> Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class G<T> Type Parameters T Inheritance object G<T> Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.IListArrayTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.IListArrayTests.html",
+    "title": "Class IListArrayTests | nf.unitylibs.utils",
+    "keywords": "Class IListArrayTests Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class IListArrayTests Inheritance object IListArrayTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AccumulateTest() [Fact] public void AccumulateTest()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.Non.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.Non.html",
+    "title": "Class Non | nf.unitylibs.utils",
+    "keywords": "Class Non Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class Non Inheritance object Non Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.ProcessItems.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.ProcessItems.html",
+    "title": "Class ProcessItems | nf.unitylibs.utils",
+    "keywords": "Class ProcessItems Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public static class ProcessItems Inheritance object ProcessItems Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Accumulate<T>(IList<T>, Calcurator<T>) public static T Accumulate<T>(IList<T> items, Calcurator<T> cal) Parameters items IList<T> cal Calcurator<T> Returns T Type Parameters T"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.ReflectionTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.ReflectionTests.html",
+    "title": "Class ReflectionTests | nf.unitylibs.utils",
+    "keywords": "Class ReflectionTests Namespace CSharpFeaturesTest.V20.Generics Assembly CSharpFeaturesTest.dll public class ReflectionTests Inheritance object ReflectionTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GetGenericArgumentsTest() [Fact] public void GetGenericArgumentsTest() GetGenericParameterConstraintsTest() [Fact] public void GetGenericParameterConstraintsTest() GetGenericTypeDefinitionTest() [Fact] public void GetGenericTypeDefinitionTest() IsGenericTypeTest() [Fact] public void IsGenericTypeTest()"
+  },
+  "api/CSharpFeaturesTest.V20.Generics.html": {
+    "href": "api/CSharpFeaturesTest.V20.Generics.html",
+    "title": "Namespace CSharpFeaturesTest.V20.Generics | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.Generics Classes Base<T, U> Calcurator Calcurator<T> Constraint<T, U, V> ConstraintsTests DefaultKeywordTests Derived<V> Derived<V>.Nested G<T> IListArrayTests Non ProcessItems ReflectionTests"
+  },
+  "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.C.html": {
+    "href": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.C.html",
+    "title": "Class InlineWarningControlTests.C | nf.unitylibs.utils",
+    "keywords": "Class InlineWarningControlTests.C Namespace CSharpFeaturesTest.V20.InlineWarningControl Assembly CSharpFeaturesTest.dll [CLSCompliant(false)] public class InlineWarningControlTests.C Inheritance object InlineWarningControlTests.C Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.D.html": {
+    "href": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.D.html",
+    "title": "Class InlineWarningControlTests.D | nf.unitylibs.utils",
+    "keywords": "Class InlineWarningControlTests.D Namespace CSharpFeaturesTest.V20.InlineWarningControl Assembly CSharpFeaturesTest.dll [CLSCompliant(false)] public class InlineWarningControlTests.D Inheritance object InlineWarningControlTests.D Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.InlineWarningControl.InlineWarningControlTests.html",
+    "title": "Class InlineWarningControlTests | nf.unitylibs.utils",
+    "keywords": "Class InlineWarningControlTests Namespace CSharpFeaturesTest.V20.InlineWarningControl Assembly CSharpFeaturesTest.dll public class InlineWarningControlTests Inheritance object InlineWarningControlTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString()"
+  },
+  "api/CSharpFeaturesTest.V20.InlineWarningControl.html": {
+    "href": "api/CSharpFeaturesTest.V20.InlineWarningControl.html",
+    "title": "Namespace CSharpFeaturesTest.V20.InlineWarningControl | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.InlineWarningControl Classes InlineWarningControlTests InlineWarningControlTests.C InlineWarningControlTests.D"
+  },
+  "api/CSharpFeaturesTest.V20.Iterators.IteratorsTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.Iterators.IteratorsTests.html",
+    "title": "Class IteratorsTests | nf.unitylibs.utils",
+    "keywords": "Class IteratorsTests Namespace CSharpFeaturesTest.V20.Iterators Assembly CSharpFeaturesTest.dll public class IteratorsTests Inheritance object IteratorsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GenericIteratorTest() [Fact] public void GenericIteratorTest() IEnumerableReturnTest() [Fact] public void IEnumerableReturnTest() IteratorsTest() [Fact] public void IteratorsTest() MultipleYieldReturnTest() [Fact] public void MultipleYieldReturnTest()"
+  },
+  "api/CSharpFeaturesTest.V20.Iterators.html": {
+    "href": "api/CSharpFeaturesTest.V20.Iterators.html",
+    "title": "Namespace CSharpFeaturesTest.V20.Iterators | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.Iterators Classes IteratorsTests"
+  },
+  "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.Math.html": {
+    "href": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.Math.html",
+    "title": "Class NamespaceAliasQualifierTests.Math | nf.unitylibs.utils",
+    "keywords": "Class NamespaceAliasQualifierTests.Math Namespace CSharpFeaturesTest.V20.NamespaceAliasQualifier Assembly CSharpFeaturesTest.dll public static class NamespaceAliasQualifierTests.Math Inheritance object NamespaceAliasQualifierTests.Math Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Abs(int) public static int Abs(int input) Parameters input int Returns int"
+  },
+  "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.NamespaceAliasQualifierTests.html",
+    "title": "Class NamespaceAliasQualifierTests | nf.unitylibs.utils",
+    "keywords": "Class NamespaceAliasQualifierTests Namespace CSharpFeaturesTest.V20.NamespaceAliasQualifier Assembly CSharpFeaturesTest.dll public class NamespaceAliasQualifierTests Inheritance object NamespaceAliasQualifierTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods NamespaceAliasQualifierTest() [Fact] public void NamespaceAliasQualifierTest()"
+  },
+  "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.html": {
+    "href": "api/CSharpFeaturesTest.V20.NamespaceAliasQualifier.html",
+    "title": "Namespace CSharpFeaturesTest.V20.NamespaceAliasQualifier | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.NamespaceAliasQualifier Classes NamespaceAliasQualifierTests NamespaceAliasQualifierTests.Math"
+  },
+  "api/CSharpFeaturesTest.V20.NullableTypes.NullableTypesTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.NullableTypes.NullableTypesTests.html",
+    "title": "Class NullableTypesTests | nf.unitylibs.utils",
+    "keywords": "Class NullableTypesTests Namespace CSharpFeaturesTest.V20.NullableTypes Assembly CSharpFeaturesTest.dll public class NullableTypesTests Inheritance object NullableTypesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ExceptionTest() [Fact] public void ExceptionTest() IdentifyTest() [Fact] public void IdentifyTest() NullableTypesTest() [Fact] public void NullableTypesTest() OperatorTest() [Fact] public void OperatorTest()"
+  },
+  "api/CSharpFeaturesTest.V20.NullableTypes.html": {
+    "href": "api/CSharpFeaturesTest.V20.NullableTypes.html",
+    "title": "Namespace CSharpFeaturesTest.V20.NullableTypes | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.NullableTypes Classes NullableTypesTests"
+  },
+  "api/CSharpFeaturesTest.V20.PartialClasses.PartialClassesTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.PartialClasses.PartialClassesTests.html",
+    "title": "Class PartialClassesTests | nf.unitylibs.utils",
+    "keywords": "Class PartialClassesTests Namespace CSharpFeaturesTest.V20.PartialClasses Assembly CSharpFeaturesTest.dll public class PartialClassesTests Inheritance object PartialClassesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods PartialClassesTest() [Fact] public void PartialClassesTest() PartialImplementationInterfaceTest() [Fact] public void PartialImplementationInterfaceTest()"
+  },
+  "api/CSharpFeaturesTest.V20.PartialClasses.html": {
+    "href": "api/CSharpFeaturesTest.V20.PartialClasses.html",
+    "title": "Namespace CSharpFeaturesTest.V20.PartialClasses | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.PartialClasses Classes PartialClassesTests"
+  },
+  "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.PropertyAccessorAccessibilityTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.PropertyAccessorAccessibilityTests.html",
+    "title": "Class PropertyAccessorAccessibilityTests | nf.unitylibs.utils",
+    "keywords": "Class PropertyAccessorAccessibilityTests Namespace CSharpFeaturesTest.V20.PropertyAccessorAccessibility Assembly CSharpFeaturesTest.dll public class PropertyAccessorAccessibilityTests Inheritance object PropertyAccessorAccessibilityTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods InterfacePropertyTest() [Fact] public void InterfacePropertyTest() PropertyAccessorAccessibilityTest() [Fact] public void PropertyAccessorAccessibilityTest()"
+  },
+  "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.html": {
+    "href": "api/CSharpFeaturesTest.V20.PropertyAccessorAccessibility.html",
+    "title": "Namespace CSharpFeaturesTest.V20.PropertyAccessorAccessibility | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.PropertyAccessorAccessibility Classes PropertyAccessorAccessibilityTests"
+  },
+  "api/CSharpFeaturesTest.V20.StaticClasses.StaticClassesTests.html": {
+    "href": "api/CSharpFeaturesTest.V20.StaticClasses.StaticClassesTests.html",
+    "title": "Class StaticClassesTests | nf.unitylibs.utils",
+    "keywords": "Class StaticClassesTests Namespace CSharpFeaturesTest.V20.StaticClasses Assembly CSharpFeaturesTest.dll public class StaticClassesTests Inheritance object StaticClassesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods StaticClassesTest() [Fact] public void StaticClassesTest()"
+  },
+  "api/CSharpFeaturesTest.V20.StaticClasses.html": {
+    "href": "api/CSharpFeaturesTest.V20.StaticClasses.html",
+    "title": "Namespace CSharpFeaturesTest.V20.StaticClasses | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V20.StaticClasses Classes StaticClassesTests"
+  },
+  "api/CSharpFeaturesTest.V30.AnonymousTypes.AnonymousTypesTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.AnonymousTypes.AnonymousTypesTests.html",
+    "title": "Class AnonymousTypesTests | nf.unitylibs.utils",
+    "keywords": "Class AnonymousTypesTests Namespace CSharpFeaturesTest.V30.AnonymousTypes Assembly CSharpFeaturesTest.dll public class AnonymousTypesTests Inheritance object AnonymousTypesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AnonymousTypesTest() [Fact] public void AnonymousTypesTest()"
+  },
+  "api/CSharpFeaturesTest.V30.AnonymousTypes.html": {
+    "href": "api/CSharpFeaturesTest.V30.AnonymousTypes.html",
+    "title": "Namespace CSharpFeaturesTest.V30.AnonymousTypes | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.AnonymousTypes Classes AnonymousTypesTests"
+  },
+  "api/CSharpFeaturesTest.V30.AutoImplementedProperties.AutoImplementedPropertiesTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.AutoImplementedPropertiesTests.html",
+    "title": "Class AutoImplementedPropertiesTests | nf.unitylibs.utils",
+    "keywords": "Class AutoImplementedPropertiesTests Namespace CSharpFeaturesTest.V30.AutoImplementedProperties Assembly CSharpFeaturesTest.dll public class AutoImplementedPropertiesTests Inheritance object AutoImplementedPropertiesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AutoImplementedPropertiesTest() [Fact] public void AutoImplementedPropertiesTest()"
+  },
+  "api/CSharpFeaturesTest.V30.AutoImplementedProperties.html": {
+    "href": "api/CSharpFeaturesTest.V30.AutoImplementedProperties.html",
+    "title": "Namespace CSharpFeaturesTest.V30.AutoImplementedProperties | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.AutoImplementedProperties Classes AutoImplementedPropertiesTests"
+  },
+  "api/CSharpFeaturesTest.V30.CollectionInitializers.CollectionInitializersTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.CollectionInitializers.CollectionInitializersTests.html",
+    "title": "Class CollectionInitializersTests | nf.unitylibs.utils",
+    "keywords": "Class CollectionInitializersTests Namespace CSharpFeaturesTest.V30.CollectionInitializers Assembly CSharpFeaturesTest.dll public class CollectionInitializersTests Inheritance object CollectionInitializersTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CollectionInitializersTest() [Fact] public void CollectionInitializersTest() IEnumerableCollectionTest() [Fact] public void IEnumerableCollectionTest()"
+  },
+  "api/CSharpFeaturesTest.V30.CollectionInitializers.html": {
+    "href": "api/CSharpFeaturesTest.V30.CollectionInitializers.html",
+    "title": "Namespace CSharpFeaturesTest.V30.CollectionInitializers | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.CollectionInitializers Classes CollectionInitializersTests"
+  },
+  "api/CSharpFeaturesTest.V30.ExtensionMethods.ExtensionMethodsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.ExtensionMethods.ExtensionMethodsTests.html",
+    "title": "Class ExtensionMethodsTests | nf.unitylibs.utils",
+    "keywords": "Class ExtensionMethodsTests Namespace CSharpFeaturesTest.V30.ExtensionMethods Assembly CSharpFeaturesTest.dll public class ExtensionMethodsTests Inheritance object ExtensionMethodsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ExtensionMethodsTest() [Fact] public void ExtensionMethodsTest()"
+  },
+  "api/CSharpFeaturesTest.V30.ExtensionMethods.html": {
+    "href": "api/CSharpFeaturesTest.V30.ExtensionMethods.html",
+    "title": "Namespace CSharpFeaturesTest.V30.ExtensionMethods | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.ExtensionMethods Classes ExtensionMethodsTests"
+  },
+  "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.ImplicitlyTypedLocalVariablesAndArraysTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.ImplicitlyTypedLocalVariablesAndArraysTests.html",
+    "title": "Class ImplicitlyTypedLocalVariablesAndArraysTests | nf.unitylibs.utils",
+    "keywords": "Class ImplicitlyTypedLocalVariablesAndArraysTests Namespace CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays Assembly CSharpFeaturesTest.dll public class ImplicitlyTypedLocalVariablesAndArraysTests Inheritance object ImplicitlyTypedLocalVariablesAndArraysTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ImplicitlyTypedLocalVariablesAndArraysTest() [Fact] public void ImplicitlyTypedLocalVariablesAndArraysTest() InContextsTest() [Fact] public void InContextsTest()"
+  },
+  "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.html": {
+    "href": "api/CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays.html",
+    "title": "Namespace CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.ImplicitlyTypedLocalVariablesAndArrays Classes ImplicitlyTypedLocalVariablesAndArraysTests"
+  },
+  "api/CSharpFeaturesTest.V30.LambdaExpressions.LambdaExpressionsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.LambdaExpressions.LambdaExpressionsTests.html",
+    "title": "Class LambdaExpressionsTests | nf.unitylibs.utils",
+    "keywords": "Class LambdaExpressionsTests Namespace CSharpFeaturesTest.V30.LambdaExpressions Assembly CSharpFeaturesTest.dll public class LambdaExpressionsTests Inheritance object LambdaExpressionsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ActionTest() [Fact] public void ActionTest() FuncTest() [Fact] public void FuncTest() LambdaExpressionsTest() [Fact] public void LambdaExpressionsTest() ScopeTest() [Fact] public void ScopeTest()"
+  },
+  "api/CSharpFeaturesTest.V30.LambdaExpressions.html": {
+    "href": "api/CSharpFeaturesTest.V30.LambdaExpressions.html",
+    "title": "Namespace CSharpFeaturesTest.V30.LambdaExpressions | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.LambdaExpressions Classes LambdaExpressionsTests"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.AggregationOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.AggregationOperationsTests.html",
+    "title": "Class AggregationOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class AggregationOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class AggregationOperationsTests Inheritance object AggregationOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AggregateMethodTest() [Fact] public void AggregateMethodTest() AverageMethodTest() [Fact] public void AverageMethodTest() CountMethodTest() [Fact] public void CountMethodTest() LongCountMethodTest() [Fact] public void LongCountMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.ConcatenationOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.ConcatenationOperationsTests.html",
+    "title": "Class ConcatenationOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class ConcatenationOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class ConcatenationOperationsTests Inheritance object ConcatenationOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ConcatMethodTest() [Fact] public void ConcatMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.ConvertingDataTypesTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.ConvertingDataTypesTests.html",
+    "title": "Class ConvertingDataTypesTests | nf.unitylibs.utils",
+    "keywords": "Class ConvertingDataTypesTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class ConvertingDataTypesTests Inheritance object ConvertingDataTypesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AsEnumerableMethodTest() [Fact] public void AsEnumerableMethodTest() AsQueryableMethodTest() [Fact] public void AsQueryableMethodTest() CastMethodTest() [Fact] public void CastMethodTest() ToArrayMethodTest() [Fact] public void ToArrayMethodTest() ToDictionaryMethodTest() [Fact] public void ToDictionaryMethodTest() ToListMethodTest() [Fact] public void ToListMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.ElementOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.ElementOperationsTests.html",
+    "title": "Class ElementOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class ElementOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class ElementOperationsTests Inheritance object ElementOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ElementAtMethodTest() [Fact] public void ElementAtMethodTest() ElementAtOrDefaultMethodTest() [Fact] public void ElementAtOrDefaultMethodTest() FirstMehtodTest() [Fact] public void FirstMehtodTest() FirstMethodExceptionTest() [Fact] public void FirstMethodExceptionTest() LastMethodTest() [Fact] public void LastMethodTest() SingleMethodTest() [Fact] public void SingleMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.EqualityOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.EqualityOperationsTests.html",
+    "title": "Class EqualityOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class EqualityOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class EqualityOperationsTests Inheritance object EqualityOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods SequenceEqualMethodTest() [Fact] public void SequenceEqualMethodTest() SequenceEqualMethodWithIEquatableTest() [Fact] public void SequenceEqualMethodWithIEquatableTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.FilteringDataTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.FilteringDataTests.html",
+    "title": "Class FilteringDataTests | nf.unitylibs.utils",
+    "keywords": "Class FilteringDataTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class FilteringDataTests Inheritance object FilteringDataTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods OfTypeMethodTest() [Fact] public void OfTypeMethodTest() WhereClauseTest() [Fact] public void WhereClauseTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.FromClauseTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.FromClauseTests.html",
+    "title": "Class FromClauseTests | nf.unitylibs.utils",
+    "keywords": "Class FromClauseTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class FromClauseTests Inheritance object FromClauseTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CompoundFromClauseTest() [Fact] public void CompoundFromClauseTest() FromClauseTest() [Fact] public void FromClauseTest() MultipleFromClauseTest() [Fact] public void MultipleFromClauseTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.GenerationOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.GenerationOperationsTests.html",
+    "title": "Class GenerationOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class GenerationOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class GenerationOperationsTests Inheritance object GenerationOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DefaultIfEmptyMethodTest() [Fact] public void DefaultIfEmptyMethodTest() EmptyMethodTest() [Fact] public void EmptyMethodTest() RangeMethodTest() [Fact] public void RangeMethodTest() RepeatMethodTest() [Fact] public void RepeatMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.GroupingDataTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.GroupingDataTests.html",
+    "title": "Class GroupingDataTests | nf.unitylibs.utils",
+    "keywords": "Class GroupingDataTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class GroupingDataTests Inheritance object GroupingDataTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods GroupByBoolClauseTest() [Fact] public void GroupByBoolClauseTest() GroupByCompositeKeysTest() [Fact] public void GroupByCompositeKeysTest() GroupByNumericRangeTest() [Fact] public void GroupByNumericRangeTest() GroupByStringClauseTest() [Fact] public void GroupByStringClauseTest() ToLookupMethodTest() [Fact] public void ToLookupMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.JoinOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.JoinOperationsTests.html",
+    "title": "Class JoinOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class JoinOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class JoinOperationsTests Inheritance object JoinOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CompositeKeyJoinTest() [Fact] public void CompositeKeyJoinTest() GroupJoinTest() [Fact] public void GroupJoinTest() InnerJoinTest() [Fact] public void InnerJoinTest() LeftOuterJoinTest() [Fact] public void LeftOuterJoinTest() NonEquiJoinTest() [Fact] public void NonEquiJoinTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.LetClauseTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.LetClauseTests.html",
+    "title": "Class LetClauseTests | nf.unitylibs.utils",
+    "keywords": "Class LetClauseTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class LetClauseTests Inheritance object LetClauseTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods LetClauseTest() [Fact] public void LetClauseTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.LinqBasicTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.LinqBasicTests.html",
+    "title": "Class LinqBasicTests | nf.unitylibs.utils",
+    "keywords": "Class LinqBasicTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class LinqBasicTests Inheritance object LinqBasicTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods CustomCollectionTest() [Fact] public void CustomCollectionTest() CustomNonGenericCollectionTest() [Fact] public void CustomNonGenericCollectionTest() LinqBasicTest() [Fact] public void LinqBasicTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.LinqToXmlTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.LinqToXmlTests.html",
+    "title": "Class LinqToXmlTests | nf.unitylibs.utils",
+    "keywords": "Class LinqToXmlTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class LinqToXmlTests Inheritance object LinqToXmlTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AttributesCollectionTest() [Fact] public void AttributesCollectionTest() ChainAxisMethodCallsTest() [Fact] public void ChainAxisMethodCallsTest() DictionaryToXmlTest() [Fact] public void DictionaryToXmlTest() ElementValueExceptionTest() [Fact] public void ElementValueExceptionTest() ElementValueTest() [Fact] public void ElementValueTest() ElementsCollectionTest() [Fact] public void ElementsCollectionTest() FilterOnElementNamesTest() [Fact] public void FilterOnElementNamesTest() FunctionalConstructionTest() [Fact] public void FunctionalConstructionTest() UsingXPathTest() [Fact] public void UsingXPathTest() ValidateUsingXsdTest() [Fact] public void ValidateUsingXsdTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.PartitioningDataTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.PartitioningDataTests.html",
+    "title": "Class PartitioningDataTests | nf.unitylibs.utils",
+    "keywords": "Class PartitioningDataTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class PartitioningDataTests Inheritance object PartitioningDataTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods SkipMethodTest() [Fact] public void SkipMethodTest() SkipWhileMethodTest() [Fact] public void SkipWhileMethodTest() TakeMethodTest() [Fact] public void TakeMethodTest() TakeWhileMethodTest() [Fact] public void TakeWhileMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.ProjectionOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.ProjectionOperationsTests.html",
+    "title": "Class ProjectionOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class ProjectionOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class ProjectionOperationsTests Inheritance object ProjectionOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods SelectClauseTest() [Fact] public void SelectClauseTest() SelectManyClauseTest() [Fact] public void SelectManyClauseTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.QuantifierOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.QuantifierOperationsTests.html",
+    "title": "Class QuantifierOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class QuantifierOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class QuantifierOperationsTests Inheritance object QuantifierOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AllMethodTest() [Fact] public void AllMethodTest() AnyMethodTest() [Fact] public void AnyMethodTest() ContainsMethodTest() [Fact] public void ContainsMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.SetOperationsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.SetOperationsTests.html",
+    "title": "Class SetOperationsTests | nf.unitylibs.utils",
+    "keywords": "Class SetOperationsTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class SetOperationsTests Inheritance object SetOperationsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DistinctMethodTest() [Fact] public void DistinctMethodTest() ExceptMethodTest() [Fact] public void ExceptMethodTest() IntersectMethodTest() [Fact] public void IntersectMethodTest() UnionMethodTest() [Fact] public void UnionMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.SortingDataTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.SortingDataTests.html",
+    "title": "Class SortingDataTests | nf.unitylibs.utils",
+    "keywords": "Class SortingDataTests Namespace CSharpFeaturesTest.V30.Linq Assembly CSharpFeaturesTest.dll public class SortingDataTests Inheritance object SortingDataTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods OrderByClauseTest() [Fact] public void OrderByClauseTest() ReverseMethodTest() [Fact] public void ReverseMethodTest()"
+  },
+  "api/CSharpFeaturesTest.V30.Linq.html": {
+    "href": "api/CSharpFeaturesTest.V30.Linq.html",
+    "title": "Namespace CSharpFeaturesTest.V30.Linq | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.Linq Classes AggregationOperationsTests ConcatenationOperationsTests ConvertingDataTypesTests ElementOperationsTests EqualityOperationsTests FilteringDataTests FromClauseTests GenerationOperationsTests GroupingDataTests JoinOperationsTests LetClauseTests LinqBasicTests LinqToXmlTests PartitioningDataTests ProjectionOperationsTests QuantifierOperationsTests SetOperationsTests SortingDataTests"
+  },
+  "api/CSharpFeaturesTest.V30.ObjectInitializers.ObjectInitializersTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.ObjectInitializers.ObjectInitializersTests.html",
+    "title": "Class ObjectInitializersTests | nf.unitylibs.utils",
+    "keywords": "Class ObjectInitializersTests Namespace CSharpFeaturesTest.V30.ObjectInitializers Assembly CSharpFeaturesTest.dll public class ObjectInitializersTests Inheritance object ObjectInitializersTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods AnonymousTypeTest() [Fact] public void AnonymousTypeTest() ObjectInitializersTest() [Fact] public void ObjectInitializersTest()"
+  },
+  "api/CSharpFeaturesTest.V30.ObjectInitializers.html": {
+    "href": "api/CSharpFeaturesTest.V30.ObjectInitializers.html",
+    "title": "Namespace CSharpFeaturesTest.V30.ObjectInitializers | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.ObjectInitializers Classes ObjectInitializersTests"
+  },
+  "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.PartialMethodDefinitionsTests.html": {
+    "href": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.PartialMethodDefinitionsTests.html",
+    "title": "Class PartialMethodDefinitionsTests | nf.unitylibs.utils",
+    "keywords": "Class PartialMethodDefinitionsTests Namespace CSharpFeaturesTest.V30.PartialMethodDefinitions Assembly CSharpFeaturesTest.dll public class PartialMethodDefinitionsTests Inheritance object PartialMethodDefinitionsTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods PartialMethodDefinitionsTest() [Fact] public void PartialMethodDefinitionsTest()"
+  },
+  "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.html": {
+    "href": "api/CSharpFeaturesTest.V30.PartialMethodDefinitions.html",
+    "title": "Namespace CSharpFeaturesTest.V30.PartialMethodDefinitions | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V30.PartialMethodDefinitions Classes PartialMethodDefinitionsTests"
+  },
+  "api/CSharpFeaturesTest.V40.DynamicSupport.DynamicSupportTests.html": {
+    "href": "api/CSharpFeaturesTest.V40.DynamicSupport.DynamicSupportTests.html",
+    "title": "Class DynamicSupportTests | nf.unitylibs.utils",
+    "keywords": "Class DynamicSupportTests Namespace CSharpFeaturesTest.V40.DynamicSupport Assembly CSharpFeaturesTest.dll public class DynamicSupportTests Inheritance object DynamicSupportTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods DynamicSupportTest() [Fact] public void DynamicSupportTest()"
+  },
+  "api/CSharpFeaturesTest.V40.DynamicSupport.html": {
+    "href": "api/CSharpFeaturesTest.V40.DynamicSupport.html",
+    "title": "Namespace CSharpFeaturesTest.V40.DynamicSupport | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V40.DynamicSupport Classes DynamicSupportTests"
+  },
+  "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ContravarianceDelegate-1.html": {
+    "href": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ContravarianceDelegate-1.html",
+    "title": "Delegate VarianceInDelegatesTests.ContravarianceDelegate<T> | nf.unitylibs.utils",
+    "keywords": "Delegate VarianceInDelegatesTests.ContravarianceDelegate<T> Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance Assembly CSharpFeaturesTest.dll public delegate void VarianceInDelegatesTests.ContravarianceDelegate<in T>(T input) Parameters input T Type Parameters T"
+  },
+  "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ConvarianceDelegate-1.html": {
+    "href": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.ConvarianceDelegate-1.html",
+    "title": "Delegate VarianceInDelegatesTests.ConvarianceDelegate<T> | nf.unitylibs.utils",
+    "keywords": "Delegate VarianceInDelegatesTests.ConvarianceDelegate<T> Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance Assembly CSharpFeaturesTest.dll public delegate T VarianceInDelegatesTests.ConvarianceDelegate<out T>() Returns T Type Parameters T"
+  },
+  "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.html": {
+    "href": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VarianceInDelegatesTests.html",
+    "title": "Class VarianceInDelegatesTests | nf.unitylibs.utils",
+    "keywords": "Class VarianceInDelegatesTests Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance Assembly CSharpFeaturesTest.dll public class VarianceInDelegatesTests Inheritance object VarianceInDelegatesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ContravarianceTest() [Fact] public void ContravarianceTest() ConvarianceTest() [Fact] public void ConvarianceTest()"
+  },
+  "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VariantGenericInterfacesTests.html": {
+    "href": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.VariantGenericInterfacesTests.html",
+    "title": "Class VariantGenericInterfacesTests | nf.unitylibs.utils",
+    "keywords": "Class VariantGenericInterfacesTests Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance Assembly CSharpFeaturesTest.dll public class VariantGenericInterfacesTests Inheritance object VariantGenericInterfacesTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ContravarianceTest() [Fact] public void ContravarianceTest() ConvarianceTest() [Fact] public void ConvarianceTest()"
+  },
+  "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.html": {
+    "href": "api/CSharpFeaturesTest.V40.GenericCovarianceAndContravariance.html",
+    "title": "Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V40.GenericCovarianceAndContravariance Classes VarianceInDelegatesTests VariantGenericInterfacesTests Delegates VarianceInDelegatesTests.ContravarianceDelegate<T> VarianceInDelegatesTests.ConvarianceDelegate<T>"
+  },
+  "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.NamedAndOptionalArgumentsTest.html": {
+    "href": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.NamedAndOptionalArgumentsTest.html",
+    "title": "Class NamedAndOptionalArgumentsTest | nf.unitylibs.utils",
+    "keywords": "Class NamedAndOptionalArgumentsTest Namespace CSharpFeaturesTest.V40.NamedAndOptionalArguments Assembly CSharpFeaturesTest.dll public class NamedAndOptionalArgumentsTest Inheritance object NamedAndOptionalArgumentsTest Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods NamedArgumentsTest() [Fact] public void NamedArgumentsTest() OptionalArgumentsTest() [Fact] public void OptionalArgumentsTest()"
+  },
+  "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.html": {
+    "href": "api/CSharpFeaturesTest.V40.NamedAndOptionalArguments.html",
+    "title": "Namespace CSharpFeaturesTest.V40.NamedAndOptionalArguments | nf.unitylibs.utils",
+    "keywords": "Namespace CSharpFeaturesTest.V40.NamedAndOptionalArguments Classes NamedAndOptionalArgumentsTest"
+  },
+  "api/CustomExtensions.MyExtensions.html": {
+    "href": "api/CustomExtensions.MyExtensions.html",
+    "title": "Class MyExtensions | nf.unitylibs.utils",
+    "keywords": "Class MyExtensions Namespace CustomExtensions Assembly CSharpFeaturesTest.dll public static class MyExtensions Inheritance object MyExtensions Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods ConcatWith(string, string) public static string ConcatWith(this string str, string rhs) Parameters str string rhs string Returns string WordCount(string) public static int WordCount(this string str) Parameters str string Returns int"
+  },
+  "api/CustomExtensions.html": {
+    "href": "api/CustomExtensions.html",
+    "title": "Namespace CustomExtensions | nf.unitylibs.utils",
+    "keywords": "Namespace CustomExtensions Classes MyExtensions"
+  },
+  "docs/index.html": {
+    "href": "docs/index.html",
+    "title": "Introduction | nf.unitylibs.utils",
+    "keywords": "Introduction repo"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "",
+    "keywords": ""
+  }
+}
