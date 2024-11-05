@@ -10,22 +10,22 @@ namespace CSharpFeaturesTest.V30.LambdaExpressions
     
     public class LambdaExpressionsTests
     {
-        delegate int del(int input);
+        delegate int _del(int input);
 
         [Fact]
         public void LambdaExpressionsTest()
         {
             // =>는 goes to라고 읽는다.
-            del myDel = x => x * x;
+            _del myDel = x => x * x;
             Assert.Equal(5 * 5, myDel(5));
 
             // 컴파일러가 타입 추론을 힘들어 할 때가 있는데, 그땐 이렇게 type을 명시해서 도울 수 있다.
             // 친절한 자. 컴파일러가 돕는다.
-            del myDel2 = (int x) => x * x;
+            _del myDel2 = (int x) => x * x;
             Assert.Equal(5 * 5, myDel2(5));
 
             // statement도 사용가능
-            del myDel3 = x =>
+            _del myDel3 = x =>
                 {
                     int sum = 0;
                     for (int i = 0; i < x; ++i)
