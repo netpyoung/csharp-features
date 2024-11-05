@@ -472,7 +472,37 @@
   "docs/index.html": {
     "href": "docs/index.html",
     "title": "Introduction | nf.unitylibs.utils",
-    "keywords": "Introduction repo"
+    "keywords": "Introduction repo The history of C# 13 whats-new 12 whats-new 11 whats-new 10 whats-new 9 8.0 7.3 7.2 7.1 7.0 6.0 5.0 4.0 C# 4.0 - New C# Features in the .NET Framework 4 3.0 2.0 What's New in the C# 2.0 Language and Compiler 1.2 1.0"
+  },
+  "docs/unity.html": {
+    "href": "docs/unity.html",
+    "title": "Unity | nf.unitylibs.utils",
+    "keywords": "Unity Version TargetFramework C# language version Unity 6 netstandard2.1 9 Unity6 Unsupported features C# 9.0 Suppress emitting localsinit flag Covariant return types Module Initializers Extensible calling conventions for unmanaged function pointers Init only setters"
+  },
+  "docs/version/version-10.html": {
+    "href": "docs/version/version-10.html",
+    "title": "Version 10 | nf.unitylibs.utils",
+    "keywords": "Version 10"
+  },
+  "docs/version/version-11.html": {
+    "href": "docs/version/version-11.html",
+    "title": "Version 11 | nf.unitylibs.utils",
+    "keywords": "Version 11"
+  },
+  "docs/version/version-12.html": {
+    "href": "docs/version/version-12.html",
+    "title": "Version 12 | nf.unitylibs.utils",
+    "keywords": "Version 12"
+  },
+  "docs/version/version-13.html": {
+    "href": "docs/version/version-13.html",
+    "title": "Version 13 | nf.unitylibs.utils",
+    "keywords": "Version 13"
+  },
+  "docs/version/version-9.html": {
+    "href": "docs/version/version-9.html",
+    "title": "Version 9 | nf.unitylibs.utils",
+    "keywords": "Version 9"
   },
   "index.html": {
     "href": "index.html",
