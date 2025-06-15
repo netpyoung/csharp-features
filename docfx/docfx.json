@@ -37,8 +37,9 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "nf.unitylibs.utils",
-      "_appTitle": "nf.unitylibs.utils",
+      "_appName": "csharp-features",
+      "_appTitle": "csharp-features",
+	  "_googleAnalyticsTagId": "G-855BJNV9VD",
       "_enableSearch": true,
       "pdf": false
     }
