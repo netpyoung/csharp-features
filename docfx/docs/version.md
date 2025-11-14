@@ -1,6 +1,35 @@
 # Version
 
-| [Version](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)            |                                                                                                                                                                             |
+https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/language-versioning
+
+## Framework 버전 vs Langugage 버전
+
+|                       |                     |
+| --------------------- | ------------------- |
+| .NET {net-version}    | `<TargetFramework>` |
+| C#   {csharp-version} | `<LangVersion>`     |
+
+- <https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/language-versioning>
+
+## Framework 버전
+
+| Target        | 버전 | C# 언어 버전 기본값 |               |
+| ------------- | ---- | ------------------- | ------------- |
+| .NET          | 10.x | C# 14               | VS 2026       |
+| .NET          | 9.x  | C# 13               | VS 2022 17.10 |
+| .NET          | 8.x  | C# 12               | VS 2022 17.8  |
+| .NET          | 7.x  | C# 11               | VS 2022 17.4  |
+| .NET          | 6.x  | C# 10               | VS 2022 17.0  |
+| .NET          | 5.x  | C# 9.0              | VS 2019 16.8  |
+| .NET 코어     | 3.x  | C# 8.0              | VS 2019 16.3  |
+| .NET 코어     | 2.x  | C# 7.3              | VS 2017 15.7  |
+| .NET Standard | 2.1  | C# 8.0              | VS 2019       |
+| .NET Standard | 2.0  | C# 7.3              | VS 2017       |
+| .NET Standard | 1.x  | C# 7.3              | VS 2017       |
+
+## Language 버전
+
+| [C# Version](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)         |                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [14](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-14)    | [whats-new](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14)                                                                                            |
 | [13](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-13)    | [whats-new](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-13)                                                                                            |
