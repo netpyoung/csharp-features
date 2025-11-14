@@ -45,16 +45,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/version.md",
-      "output": {
-        ".html": {
-          "relative_path": "docs/version.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "docs/version/version-001.md",
       "output": {
         ".html": {
@@ -189,6 +179,16 @@
       "output": {
         ".html": {
           "relative_path": "docs/version/version-014.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/version/version-index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/version/version-index.html"
         }
       },
       "version": ""

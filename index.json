@@ -2,17 +2,12 @@
   "docs/index.html": {
     "href": "docs/index.html",
     "title": "C# Features | csharp-features",
-    "summary": "C# Features C# 버전 업 패기있게 진행 중. 버전별로 추가되는 피처를 차근차근 따라잡기 위해 만든 피처 테스트 프로젝트 ohyecloudy/csharp-features에서 포크해서 사용"
+    "summary": "C# Features C# 버전 업 패기있게 진행 중. 버전별로 추가되는 피처를 차근차근 따라잡기 위해 만든 피처 테스트 프로젝트 ohyecloudy/csharp-features에서 포크해서 사용 소스 Ref https://github.com/ibrahimatay/Csharp-Features https://ohyecloudy.com/pnotes/archives/1461/"
   },
   "docs/unity.html": {
     "href": "docs/unity.html",
     "title": "Unity | csharp-features",
     "summary": "Unity Version TargetFramework C# language version Unity 6 netstandard2.1 9 Unity6 Unsupported features C# 9.0 Suppress emitting localsinit flag Covariant return types Module Initializers Extensible calling conventions for unmanaged function pointers Init only setters"
-  },
-  "docs/version.html": {
-    "href": "docs/version.html",
-    "title": "Version | csharp-features",
-    "summary": "Version https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/language-versioning Framework 버전 vs Langugage 버전 .NET {net-version} <TargetFramework> C# {csharp-version} <LangVersion> https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/language-versioning Framework 버전 Target 버전 C# 언어 버전 기본값 .NET 10.x C# 14 VS 2026 .NET 9.x C# 13 VS 2022 17.10 .NET 8.x C# 12 VS 2022 17.8 .NET 7.x C# 11 VS 2022 17.4 .NET 6.x C# 10 VS 2022 17.0 .NET 5.x C# 9.0 VS 2019 16.8 .NET 코어 3.x C# 8.0 VS 2019 16.3 .NET 코어 2.x C# 7.3 VS 2017 15.7 .NET Standard 2.1 C# 8.0 VS 2019 .NET Standard 2.0 C# 7.3 VS 2017 .NET Standard 1.x C# 7.3 VS 2017 Language 버전 C# Version 14 whats-new 13 whats-new 12 whats-new 11 whats-new 10 whats-new 9 8.0 7.3 7.2 7.1 7.0 6.0 5.0 4.0 C# 4.0 - New C# Features in the .NET Framework 4 3.0 2.0 What's New in the C# 2.0 Language and Compiler 1.2 1.0"
   },
   "docs/version/version-001.html": {
     "href": "docs/version/version-001.html",
@@ -37,12 +32,12 @@
   "docs/version/version-005.html": {
     "href": "docs/version/version-005.html",
     "title": "Version 5 | csharp-features",
-    "summary": "Version 5"
+    "summary": "Version 5 TAP Task-based Asynchronous Pattern - async / await https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/ https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/attributes/caller-information Ref C# 컴파일러 대신 직접 구현하는 비동기(async/await) 코드"
   },
   "docs/version/version-006.html": {
     "href": "docs/version/version-006.html",
     "title": "Version 6 | csharp-features",
-    "summary": "Version 6"
+    "summary": "Version 6 using static - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/using-directive#the-static-modifier catch (ExceptionType [e]) when (expr) - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/when public string FirstName { get; set; } = string.Empty; - https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties#automatically-implemented-properties public override string ToString() => $\"{fname} {lname}\".Trim(); - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-operator#expression-body-definition https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and- Console.WriteLine($\"Hello, {name}! Today is {date.DayOfWeek}, it's {date:HH:mm} now.\"); - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated nameof - https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/nameof"
   },
   "docs/version/version-007.html": {
     "href": "docs/version/version-007.html",
@@ -83,6 +78,11 @@
     "href": "docs/version/version-014.html",
     "title": "Version 14 | csharp-features",
     "summary": "Version 14 Extension members The field keyword customer?.Order = GetCurrentOrder();"
+  },
+  "docs/version/version-index.html": {
+    "href": "docs/version/version-index.html",
+    "title": "Version | csharp-features",
+    "summary": "Version https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/language-versioning Framework 버전 vs Langugage 버전 C# {csharp-version} <LangVersion> .NET {net-version} <TargetFramework> .NET Framework {old-net-version} <TargetFrameworkVersion> Language 버전 C# Version 14 whats-new 13 whats-new 12 whats-new 11 whats-new 10 whats-new 9 8.0 7.3 7.2 7.1 7.0 6.0 5.0 4.0 C# 4.0 - New C# Features in the .NET Framework 4 3.0 2.0 What's New in the C# 2.0 Language and Compiler 1.2 1.0 Framework 버전 Target 버전 LangVersion VS .NET 10.x 14 VS 2026 .NET 9.x 13 VS 2022 17.10 .NET 8.x 12 VS 2022 17.8 .NET 7.x 11 VS 2022 17.4 .NET 6.x 10 VS 2022 17.0 .NET 5.x 9.0 VS 2019 16.8 .NET 코어 3.x 8.0 VS 2019 16.3 .NET 코어 2.x 7.3 VS 2017 15.7 .NET Standard 2.1 8.0 VS 2019 .NET Standard 2.0 7.3 VS 2017 .NET Standard 1.x 7.3 VS 2017 <TargetFramework> net5 <TargetFramework> netcoreapp1.0 <TargetFramework> netstandard1.0 <TargetFrameworkVersion> v1.0 TargetFrameworkVersion LangVersion VS v4.8 7.3 VS 2019 v4.7 7.0 VS 2017 v4.6 6.0 VS 2015 v4.5.1 5.0 VS 2013 v4.5 5.0 VS 2012 v4.0 4.0 VS 2010 v3.5 3.0 VS 2008 v2.0 2.0 VS 2005 v1.1 1.2 VS 2003 v1.0 1.0 VS 2002"
   },
   "index.html": {
     "href": "index.html",
